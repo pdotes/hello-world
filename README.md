@@ -1,2 +1,3 @@
 # hello-world
-going through the tutoria
+going through the tutorial
+learing to use GitHub
